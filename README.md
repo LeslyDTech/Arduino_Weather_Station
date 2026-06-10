@@ -25,12 +25,12 @@ Check out the build video on TikTok: [Watch here](https://www.tiktok.com/@leslyd
 ### LCD
 | LCD Pin | Arduino |
 |---------|---------|
-| RS | Pin 7 |
-| E | Pin 6 |
-| D4 | Pin 5 |
-| D5 | Pin 4 |
-| D6 | Pin 3 |
-| D7 | Pin 2 |
+| RS | Pin 11 |
+| E | Pin 12 |
+| D4 | Pin 2 |
+| D5 | Pin 3 |
+| D6 | Pin 4 |
+| D7 | Pin 5 |
 | V0 | Potentiometer wiper |
 | VSS | GND |
 | VDD | 5V |
